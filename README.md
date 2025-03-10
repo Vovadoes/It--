@@ -67,6 +67,9 @@
 4. Docker с Prometheus и Grafana
 5. Linux Mint
 
+
+### [Виртуальные машины](https://disk.yandex.com.am/d/ziPejBFwdbnpnw)
+
 ## Логины и пароли
 
 ### Linux Mint
